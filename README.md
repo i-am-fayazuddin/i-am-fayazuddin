@@ -2,7 +2,7 @@
 - 👀 I’m interested in Salesforce Commerce Cloud
 - 🌱 I’m currently learning Salesforce Commerce Cloud Developer
 - 💞️ I’m looking to collaborate on Salesforce Commerce Cloud Developers
-- 📫 How to reach me pmd.fayazuddin@brillio.com
+- 📫 How to reach me fayazuddinrt@gmail.com
 
 <!---
 i-am-fayazuddin/i-am-fayazuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
